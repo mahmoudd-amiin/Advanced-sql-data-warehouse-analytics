@@ -1,0 +1,19 @@
+# Windows temporary files
+desktop.ini
+Thumbs.db
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# SQL Server backup files
+*.bak
+*.trn
+
+# Environment and sensitive files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
